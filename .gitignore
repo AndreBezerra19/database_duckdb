@@ -1,0 +1,9 @@
+# Ignorar ambientes virtuais
+venv/
+
+# Ignorar arquivos temporários
+*.tmp
+*.log
+
+# Ignorar banco de dados local
+*.duckdb
